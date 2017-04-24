@@ -9,14 +9,14 @@ Parameters such as host and port are all hardcoded which is just an obvious impr
 First compile both applications using ``javac``. Then, in two separate shells,
 
 ### Client
-´´´
+```
 java Cliente
-´´´
+```
 
 ### Server
-´´´
+```
 java Servidor
-´´´
+```
 
 ## License
 
